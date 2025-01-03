@@ -34,8 +34,6 @@
 
 <ins>Activities and Societies</ins> 
 - St. John Brigade (Executive Committee)
-  - 
-
 
 
 ## Experience
@@ -47,9 +45,6 @@
 ### Singapore Armed Forces (SAF): Motorised Infantry Officer — 2022 - 2023
 - Recipient of the prestigious Sword of Honour, awarded to the top-performer of each vocation in recognition of their leadership, resilience, and operational planning (10 of 406 officer cadets)
 - Led 140 individuals in mission planning and execution as an Officer Commanding
-
-
-## Project
 
 
 ## Certification
